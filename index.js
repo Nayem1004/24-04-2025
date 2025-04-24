@@ -23,6 +23,7 @@ function removeStyle2(){
     css.classList.remove("pera-style");
 }
 
+
 var photos = ["image/1.jpg", "image/2.jpg", "image/man-2.jpg", "image/man1.png"];
 var imgTag = document.getElementById("slide");
 var count = 0;
