@@ -24,7 +24,7 @@ function removeStyle2(){
 }
 
 
-var photos = ["image/1.jpg", "image/2.jpg", "image/man-2.jpg", "image/man1.png"];
+var photos = ["slider/image/1.jpg", "slider/image/2.jpg", "slider/image/man-2.jpg", "slider/image/man1.png"];
 var imgTag = document.getElementById("slide");
 var count = 0;
 
